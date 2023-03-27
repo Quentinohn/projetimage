@@ -1,9 +1,7 @@
-<p>
-  <img src="Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.001.png" align="left" width="200" alt="Nom de l'image">
-  Notice d’utilisation Suspect authentificateur V1.0 
-</p>
-<br><br>
 
+![](Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.001.png)  1. Notice d’utilisation Suspect authentificateur V1.0 
+
+![](Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.002.png)  1. Aller sur le script test.py qui se situe dans le dossier app 
 
 ![](Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.003.png)  1. Ouvrir le fichier script.py avec VSCode par exemple. 
 
