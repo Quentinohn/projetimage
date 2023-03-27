@@ -1,7 +1,7 @@
 ![](Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.001.png)  Notice d’utilisation Suspect authentificateur V1.0
 <p>
   <img src="Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.001.png" align="left" width="200" alt="Nom de l'image">
-  Texte à côté de l'image.
+  Texte à côté de l'image. <br>
   Notice d’utilisation Suspect authentificateur V1.0
 </p>
 
