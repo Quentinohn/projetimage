@@ -33,13 +33,13 @@
 <img src="pictures/007.png" alt="another image" align="left" width="200"/>
  Une nouvelle fenêtre s’ouvre avec 6 images proposer. (Remplacer le screen)<br>
  7. Sélectionner entre une à six images qui ressemble le plus à la victime, de la plus à la moins ressemblante<br>
- 8. Cliquer sur le bouton next <img src="008.png">
+ 8. Cliquer sur le bouton next <img src="pictures/008.png">
 <br clear="both"/><br>
 
 
 <img src="pictures/009.png" alt="another image" align="left" width="200"/>
  9. Si l’on s’est trompé, l’on peut revenir en arrière en cliquant sur l’historique si situant à gauche <br>
- 10. Une fois que l’on pense que le portrait-robot ressemble le plus à notre victime, sélectionner une image et appuyer sur validation finale : <img src="010.png">
+ 10. Une fois que l’on pense que le portrait-robot ressemble le plus à notre victime, sélectionner une image et appuyer sur validation finale : <img src="pictures/010.png">
 <br clear="both"/><br>
 
 
