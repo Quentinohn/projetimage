@@ -1,8 +1,8 @@
 <p>
   <img src="Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.001.png" align="left" width="200" alt="Nom de l'image">
-  Notice d’utilisation Suspect authentificateur V1.0 <br>
+  Notice d’utilisation Suspect authentificateur V1.0 
 </p>
-<br>
+<br><br>
 <p>
   <img src="Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.002.png" align="left" width="200" alt="Nom de l'image">
   1. Aller sur le script test.py qui se situe dans le dossier app<br>
