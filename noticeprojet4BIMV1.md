@@ -1,7 +1,5 @@
 ﻿
-![](Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.001.png)
-
-Notice d’utilisation Suspect authentificateur V1.0
+![](Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.001.png) Notice d’utilisation Suspect authentificateur V1.0
 
 
 
