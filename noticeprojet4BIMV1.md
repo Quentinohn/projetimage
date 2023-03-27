@@ -3,11 +3,7 @@
 
 
 
-![Une image contenant table
-
-Description générée automatiquement](Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.002.png)
-
-1. Aller sur le script test.py qui se situe dans le dossier app
+![](Aspose.Words.c5274d5c-ed69-4248-baf8-d82c1032dce6.002.png) 1. Aller sur le script test.py qui se situe dans le dossier app
 
 
 
